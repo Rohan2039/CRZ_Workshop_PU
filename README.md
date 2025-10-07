@@ -34,7 +34,7 @@
 
 ## 5. Verify the installation.
 
-### 5.1 QEMU Tools.
+### 5.1 QEMU Tools.(Hardware emulator)
 
     ls $HOME/.local/xPacks/@xpack-dev-tools/qemu-arm/<version>/.content/bin
 
@@ -46,7 +46,7 @@
 
    ![](IMGS/image-4.png)
 
-### 5.2 GCC Tools
+### 5.2 GCC Tools (Compiler suite (compiles, links, debug))
 
     ls $HOME/.local/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/<version>/.content/bin
 
