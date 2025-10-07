@@ -22,7 +22,7 @@
 
 ---
 
- ![](IMGS/image-2.png)
+ ![](IMGS/image-7.png)
 
 ## 4. Install gcc and QEMU tools.
 
