@@ -29,7 +29,7 @@
     sudo apt update
     sudo apt-get install npm
     sudo npm install --global xpm@latest
-    xpm install --global @xpack-dev-tools/qemu-arm
+    xpm install --global @xpack-dev-tools/qemu-arm@8.2.6-1.1
     xpm install --global@xpack-dev-tools/arm-none-eabi-gcc@latest
 
 ## 5. Verify the installation.
