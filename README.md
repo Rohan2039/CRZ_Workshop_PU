@@ -60,5 +60,5 @@
 
 ## Set Path Variables.
 
- export PATH="$PATH:$HOME/.local/xPacks/@xpack-dev-tools/qemu-arm/8.2.6-1.1/.content/bin"
- export PATH="$PATH:$HOME/.local/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin"
+    export PATH="$PATH:$HOME/.local/xPacks/@xpack-dev-tools/qemu-arm/8.2.6-1.1/.content/bin"
+    export PATH="$PATH:$HOME/.local/xPacks/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin"
