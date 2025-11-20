@@ -9,6 +9,13 @@ void _start (void);
 void __attribute__ ((section(".after_vectors"),noreturn,weak))
 _start (void){
 
-    main();
+    asm volatile
+    (
+        " ldr     r0,=_start \n"
+        " bx      r0"
+        :
+        :
+        :
+    );
 
 }
