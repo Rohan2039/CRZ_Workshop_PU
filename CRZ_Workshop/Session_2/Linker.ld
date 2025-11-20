@@ -6,8 +6,6 @@ MEMORY
 
 _estack = ORIGIN(RAM) + LENGTH (RAM);
 
-_heap_start = _ebss;
-
 SECTIONS
 {
     .CODE :
